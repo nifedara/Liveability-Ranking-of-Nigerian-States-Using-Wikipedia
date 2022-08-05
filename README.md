@@ -37,3 +37,7 @@ From the results, we can make the following deductions:
 2. Akwa-Ibom state is the least liveable state.
 
 There's no previously done Nigerian state liveabilty ranking metric to measure the accuracy of the result of my analysis with, but I believe Wikipedia articles can be used to estimate the development of regions of the world, like Nigeria where the United Nations Sustainable Development Goals are hard to track due to a lack of data.
+
+
+### Dataset ###
+The dataset of the Wikipedia articles about Nigeria which I created will be uploaded for access to anyone who is interested in a project like this.
