@@ -54,7 +54,7 @@ Wikipedia articles can be used to estimate the development of regions of the wor
 
 ### 🚀 Next ###
 * The output can be used in recommendation systems.
-* Can also bbe used in reports of the progress in achieving SDGs
+* Can also be used in reports of our progress in achieving SDGs
 
 
 ### Dataset ###
