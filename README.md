@@ -28,7 +28,7 @@ by **https://github.com/nifedara**
 > To answer this, I carried out an analysis of over 55474 Wikipedia articles that mention Nigeria.
 
 ### ⚙️ Project Methodology ###
-The approach I used in this analysis to find out the liveability of states in Nigeria by mining Wikipedia is categorized into the following phases;
+The approach used in this analysis to find out the liveability of states in Nigeria by mining Wikipedia is categorized into the following phases;
 1. Getting Data - Wikipedia Extraction (XML Parsing)
 2. Named Entity Recognition
 3. Machine Learning Classification
@@ -52,7 +52,7 @@ Comparing the 2019 HDI(Human Development Index) Ranking of Nigerian states (list
 #### 🎙 Conclusion: ####
 Wikipedia articles can be used to estimate the development of regions of the world, like Nigeria where the United Nations Sustainable Development Goals are hard to track due to a lack of data.
 
-### Next ###
+### 🚀 Next ###
 * The output can be used in recommendation systems.
 * Can also bbe used in reports of the progress in achieving SDGs
 
