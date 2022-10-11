@@ -52,6 +52,10 @@ Comparing the 2019 HDI(Human Development Index) Ranking of Nigerian states (list
 #### 🎙 Conclusion: ####
 Wikipedia articles can be used to estimate the development of regions of the world, like Nigeria where the United Nations Sustainable Development Goals are hard to track due to a lack of data.
 
+### Next ###
+* The output can be used in recommendation systems.
+* Can also bbe used in reports of the progress in achieving SDGs
+
 
 ### Dataset ###
 The data used can be gotten by mining Wikipedia articles.
