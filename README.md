@@ -40,14 +40,18 @@ The approach I used in this analysis to find out the liveability of states in Ni
 
 From the results, the following deductions were made:
 1. Of the 10 Nigerian states considered, Lagos state ranked as the most liveable state.
-2. Kano state ranked as the least liveable state.
+2. Imo state had the highest score in the infrastructure liveability category. And ranked the second most liveable state.
+3. Kano state ranked as the least liveable state of the 10 states considered.
+4. Kaduna state is at the bottom of the rank, just a position above Kano
 
 #### Success Metric: ####
-80% Similarity of my liveabilty result to the 2019 HDI(Human Development Index) Ranking of Nigerian states
+***80% Similarity of the liveabilty ranking result to the 2019 HDI(Human Development Index) Ranking of Nigerian states.***
 
+Comparing the 2019 HDI(Human Development Index) Ranking of Nigerian states (list by Radboud University) to my liveability ranking result, there is a close similarity. In my liveability ranking, Lagos ranked the highest, and Kaduna and Kano ranked the least, just like in this HDI ranking
 
-There's no previously done Nigerian state liveabilty ranking metric to measure the accuracy of the result of my analysis with, but I believe Wikipedia articles can be used to estimate the development of regions of the world, like Nigeria where the United Nations Sustainable Development Goals are hard to track due to a lack of data.
+#### Conclusion: ####
+Wikipedia articles can be used to estimate the development of regions of the world, like Nigeria where the United Nations Sustainable Development Goals are hard to track due to a lack of data.
 
 
 ### Dataset ###
-The dataset of the Wikipedia articles about Nigeria which I created will be uploaded for access to anyone who is interested in a project like this.
+The data used can be gotten by mining Wikipedia articles.
