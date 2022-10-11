@@ -44,12 +44,12 @@ From the results, the following deductions were made:
 3. Kano state ranked as the least liveable state of the 10 states considered.
 4. Kaduna state is at the bottom of the rank, just a position above Kano
 
-#### Success Metric: ####
+#### 🚀 Success Metric: ####
 ***80% Similarity of the liveabilty ranking result to the 2019 HDI(Human Development Index) Ranking of Nigerian states.***
 
 Comparing the 2019 HDI(Human Development Index) Ranking of Nigerian states (list by Radboud University) to my liveability ranking result, there is a close similarity. In my liveability ranking, Lagos ranked the highest, and Kaduna and Kano ranked the least, just like in this HDI ranking
 
-#### Conclusion: ####
+#### 🎙 Conclusion: ####
 Wikipedia articles can be used to estimate the development of regions of the world, like Nigeria where the United Nations Sustainable Development Goals are hard to track due to a lack of data.
 
 
