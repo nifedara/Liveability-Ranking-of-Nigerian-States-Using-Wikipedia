@@ -39,8 +39,8 @@ The approach I used in this analysis to find out the liveability of states in Ni
 ### 👩🏾‍💻 Result ###
 
 From the results, the following deductions were made:
-1. Of the 10 Nigerian states considered, Anambra state is the most liveable state.
-2. Akwa-Ibom state is the least liveable state.
+1. Of the 10 Nigerian states considered, Lagos state ranked as the most liveable state.
+2. Kano state ranked as the least liveable state.
 
 #### Success Metric: ####
 80% Similarity of my liveabilty result to the 2019 HDI(Human Development Index) Ranking of Nigerian states
